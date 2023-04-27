@@ -1,0 +1,10 @@
+h1{background-color: slategrey; color: darkgreen;}
+button{ border-radius: 35px;
+        background-color: azure;
+        border: 2.5px solid aqua;
+        height: 45px;
+        width: 150px;
+    }
+label{color: aqua;}
+.plus{background-color: aqua; width: 40px; height: 40px;}
+#plustext{height: auto; width: auto; color: cornsilk; }
